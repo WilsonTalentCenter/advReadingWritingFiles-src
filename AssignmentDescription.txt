@@ -1,0 +1,8 @@
+1.) for this assignment you are going to modify you Gradebook application so that all of the data is stored in a file/set of files.   You have freedom
+to set up how it is stored and make whatever assumptions you would like but part of the explanation will be to be able to identify the pros and cons
+of the way you set it up vs other options.
+
+2.) depending on how you set it up you may find that you want to change your existing classes slightly to add additional information and that is fine 
+
+3.) the only thing you cant change is the Gradebook method signatures (what parameters get passed to each of the methods I originally gave you)  or in otherwords
+the main Class should not change and it should still work.
